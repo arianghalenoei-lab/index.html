@@ -30,4 +30,4 @@ Objective: Jump on top of the enemies to defeat them and earn 100 points per ene
 
 This game attempts to load all sprite assets (player, enemies, ground, platforms, etc.) directly from https://codehs.com/uploads/ URLs.
 
-Due to modern browser security restrictions (CORS), these images will likely fail to load when running the game outside the CodeHS platform
+Due to modern browser security restrictions (CORS), these images will likely fail to load when running the game outside the CodeHS platform so its better to run this game on codehs
